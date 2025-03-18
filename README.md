@@ -3,7 +3,7 @@
 
 ![BIDashboard02-2.png](BIDashboard02-2.png?raw=true)
 
-![BIDashboard01.png](BIDashboard01.png?raw=true)
+![PowerBIDashboards-3.jpg](PowerBIDashboards/PowerBIDashboards-3.jpg?raw=true)
 
 ![PowerBIDashboards-4.jpg](PowerBIDashboards/PowerBIDashboards-4.jpg?raw=true)
 
