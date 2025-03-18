@@ -20,5 +20,3 @@
 ![PowerBIDashboards-10.jpg](PowerBIDashboards/PowerBIDashboards-10.jpg?raw=true)
 
 ![PowerBIDashboards-11.jpg](PowerBIDashboards/PowerBIDashboards-11.jpg?raw=true)
-
-![PowerBIDashboards-4.jpg](PowerBIDashboards/PowerBIDashboards-4.jpg?raw=true)
