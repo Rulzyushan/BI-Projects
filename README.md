@@ -3,11 +3,11 @@
 
 ![BIDashboard02-2.png](BIDashboard02-2.png?raw=true)
 
-![PowerBIDashboards-12.jpg](PowerBIDashboards/PowerBIDashboards-12.jpg?raw=true)
+![PowerBIDashboards-12.jpg](PowerBIDashboards/PowerBIDashboards-12.png?raw=true)
 
-![PowerBIDashboards-13.jpg](PowerBIDashboards/PowerBIDashboards-13.jpg?raw=true)
+![PowerBIDashboards-13.jpg](PowerBIDashboards/PowerBIDashboards-13.png?raw=true)
 
-![PowerBIDashboards-14.jpg](PowerBIDashboards/PowerBIDashboards-14.jpg?raw=true)
+![PowerBIDashboards-14.jpg](PowerBIDashboards/PowerBIDashboards-14.png?raw=true)
 
 ![PowerBIDashboards-3.jpg](PowerBIDashboards/PowerBIDashboards-3.jpg?raw=true)
 
